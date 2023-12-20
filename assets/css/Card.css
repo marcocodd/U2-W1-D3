@@ -1,0 +1,43 @@
+body{
+  margin: 50px;
+}
+
+#img{
+
+}
+
+.cardDiv{
+  display: flex;
+        flex-direction: column;
+        width: 400px;
+        border-radius: 15%;
+        overflow: hidden;
+    
+      
+      
+}
+
+.backGroundCard{
+  background-color: lightgoldenrodyellow;
+  height: 200px;
+}
+
+.topOfbutton{
+  display: flex;
+        align-items: center;
+        justify-content: space-around;
+        margin-bottom: 30px;
+        margin-top: 45px;
+}
+
+.buttonDiv{
+  text-align: center;
+
+}
+
+button{
+  background-color: gold;
+  border: none;
+  padding: 12px 36px;
+  border-radius: 30px;
+}
