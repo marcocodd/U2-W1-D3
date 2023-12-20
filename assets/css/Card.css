@@ -20,6 +20,7 @@ body{
 .backGroundCard{
   background-color: lightgoldenrodyellow;
   height: 200px;
+  color: brown;
 }
 
 .topOfbutton{
@@ -41,3 +42,11 @@ button{
   padding: 12px 36px;
   border-radius: 30px;
 }
+
+.textSx h3{
+  color: brown;
+  font-weight: bold;
+  font-size: 1.1rem;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
